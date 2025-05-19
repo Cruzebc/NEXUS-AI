@@ -1,4 +1,4 @@
-# NEXUS-AI 
+# CRUZE-AI
 
 <!-- Glowing Header -->
 
